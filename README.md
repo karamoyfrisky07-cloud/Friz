@@ -1,2 +1,0 @@
-# Friz
-Web
